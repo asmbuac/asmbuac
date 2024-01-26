@@ -1,26 +1,19 @@
 # Hi, I'm Shayne!
 
-### A Filipina full-stack developer from the Bay Area 🇵🇭👩🏽‍💻
-
 <img src="https://github.com/asmbuac/asmbuac/assets/111907211/b2bdb593-d5da-41a5-9726-b5c2271a0a94"
   alt="memoji waving hi" width="200" height="200" align="right" />
 
+### A Filipina full-stack developer from the Bay Area 🇵🇭👩🏽‍💻
+
 - 🔭 I’m currently working on [an e-commerce website with an admin dashboard](https://github.com/asmbuac/jjang)
-
-- 🌱 I’m currently learning **TypeScript, Next.js, and Prisma**
-
-- 👯 I’m looking to collaborate on **open-source projects**
-
+- 🌱 I’m currently learning TypeScript, Next.js, and Prisma
+- 👯 I’m looking to collaborate on open-source projects
 - 👨‍💻 All of my projects are available at my [portfolio](https://shaynebuac.com)
-
-- 💬 Ask me about **anything!**
-
-- 📫 How to reach me: **asmbuac@gmail.com**
-
+- 💬 Ask me about anything!
+- 📫 How to reach me: asmbuac@gmail.com
 - 📄 Know about my experiences:
   [Resume](https://shaynebuac.com/docs/Shayne%20Buac%20Resume.pdf)
-
-- ⚡ Fun fact: **I like to make my own iced matcha lattes and Thai tea instead of drinking coffee!**
+- ⚡ Fun fact: I like to make my own iced matcha lattes and Thai tea instead of drinking coffee!
 ___
 
 <h3 align="left">Languages and Tools:</h3>
