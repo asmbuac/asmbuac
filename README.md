@@ -5,7 +5,7 @@
 
 ### A Filipina full-stack developer from the Bay Area 🇵🇭👩🏽‍💻
 
-- 🔭 I’m currently working on [an e-commerce website with an admin dashboard](https://github.com/asmbuac/jjang)
+- 🔭 I’m currently working on [an e-commerce website with an admin dashboard](https://github.com/asmbuac/jjang) and a fintech project!
 - 🌱 I’m currently learning TypeScript, Next.js, and Prisma
 - 👯 I’m looking to collaborate on open-source projects
 - 👨‍💻 All of my projects are available at my [portfolio](https://shaynebuac.com)
